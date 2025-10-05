@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "i2c.h": "c",
+    "binary_info.h": "c",
+    "stdlib.h": "c"
+  }
+}

@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/pico/raspberrypi-pico-projects/nrf-node/build/_deps/picotool-build/enc_bootloader_mbedtls/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

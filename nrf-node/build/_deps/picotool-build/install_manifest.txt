@@ -1,0 +1,7 @@
+C:/pico/raspberrypi-pico-projects/nrf-node/build/_deps/picotool/picotool.exe
+C:/pico/raspberrypi-pico-projects/nrf-node/build/_deps/picotool/picotoolTargets.cmake
+C:/pico/raspberrypi-pico-projects/nrf-node/build/_deps/picotool/picotoolTargets-debug.cmake
+C:/pico/raspberrypi-pico-projects/nrf-node/build/_deps/picotool/picotoolConfig.cmake
+C:/pico/raspberrypi-pico-projects/nrf-node/build/_deps/picotool/picotoolConfigVersion.cmake
+C:/pico/raspberrypi-pico-projects/nrf-node/build/_deps/picotool/enc_bootloader.elf
+C:/pico/raspberrypi-pico-projects/nrf-node/build/_deps/picotool/enc_bootloader_mbedtls.elf
